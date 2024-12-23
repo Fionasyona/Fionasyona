@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Fionasyona<br>👀 I’m interested in front-web development and cybersecurity <br>🌱 I’m currently learning Regioal Center for Mapping resources and development<br>💞️ I’m looking to collaborate on intership to learn more<br>📫 How to reach me via email fijenase@gmail.com<br>😄 Pronouns: ...<br>⚡ Fun fact: I am a fun person
+👋 Hi, I’m @Fionasyona<br>👀 I’m interested in front-web development and cybersecurity <br>🌱 I’m currently learning Regioal Center for Mapping resources and development<br>💞️ I’m looking to collaborate on intership to learn more<br>📫 How to reach me via email fionawambua20@gmail.com<br>😄 Pronouns: ...<br>⚡ Fun fact: I am a fun person
 
 
 # 💻 Tech Stack:
