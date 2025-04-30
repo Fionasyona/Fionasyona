@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-I’m currently learning full-stack web development at **ALX** where I’m building skills in HTML, CSS, JavaScript, MongoDB, Express.js, Node.js, and APIs. What drives me in tech is a deeper purpose—**to create data-driven digital solutions to real world problems.** that can truly make a difference.
+I’m currently learning full-stack web development at **ALX** where I’m building skills in HTML, CSS, JavaScript, python, MongoDB, Express.js, Node.js and APIs. What drives me in tech is a deeper purpose—**to create data-driven digital solutions to real world problems.** that can truly make a difference.
 
 I'm driven by:
 
@@ -26,6 +26,7 @@ I'm driven by:
 
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
   <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
@@ -42,14 +43,6 @@ I'm driven by:
 - 📚 Mastering backend APIs and database integration (MongoDB, Express.js)
 - 🎯 Building a strong portfolio of impactful applications
 - 🌍 Learning how to integrate technology for good in local African contexts
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fionawambua&show_icons=true&theme=radical" alt="Fiona's GitHub stats" />
-</p>
 
 ---
 
