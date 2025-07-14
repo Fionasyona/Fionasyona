@@ -26,11 +26,12 @@ I'm driven by:
 
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
   <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
-  <img src="https://img.shields.io/badge/Backend-React-informational?style=flat&logo=React&logoColor=white&color=339933"/>
-  <img src="https://img.shields.io/badge/Database-Django-informational?style=flat&logo=Django&logoColor=white&color=47A248"/>
+  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=React&logoColor=white&color=339933"/>
+  <img src="https://img.shields.io/badge/Backend-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/
+  <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=Django&logoColor=white&color=47A248"/>
+  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=47A248"/>
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white"/>
  
 </p>
