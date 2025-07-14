@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-I’m currently learning full-stack web development at **ALX** where I’m building skills in HTML, CSS, JavaScript, python, MongoDB, Express.js, Node.js and APIs. What drives me in tech is a deeper purpose—**to create data-driven digital solutions to real world problems.** that can truly make a difference.
+I’m currently learning full-stack web development at **ALX** where I’m building skills in HTML, CSS, JavaScript, React, python, Django and APIs. What drives me in tech is a deeper purpose—**to create data-driven digital solutions to real world problems.** that can truly make a difference.
 
 I'm driven by:
 
@@ -29,10 +29,10 @@ I'm driven by:
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
   <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248"/>
+  <img src="https://img.shields.io/badge/Backend-React-informational?style=flat&logo=React&logoColor=white&color=339933"/>
+  <img src="https://img.shields.io/badge/Database-Django-informational?style=flat&logo=Django&logoColor=white&color=47A248"/>
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white"/>
+ 
 </p>
 
 ---
@@ -50,7 +50,6 @@ I'm driven by:
 
 - 📫 Email: [fionawambua20@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/fiona-wambua-446752308](https://www.linkedin.com/in/fiona-wambua-446752308/)
-- 🌐 Portfolio: Coming Soon!
 
 ---
 
